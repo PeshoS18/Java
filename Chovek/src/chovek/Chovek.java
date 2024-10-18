@@ -38,11 +38,10 @@ public class Chovek {
                             System.out.printf("Невалиден избор. Моля, изберете отново.");
                         }
                 }
-
                 person.Input1();
                 person.Input2();
                 person.Output1();
                 person.Output2();
     }
-    
 }
+
