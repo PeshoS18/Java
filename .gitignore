@@ -41,3 +41,7 @@ replay_pid*
 /PoznayChislotoClient/nbproject/private/
 /PoznayChislotoServer/build/
 /PoznayChislotoClient/build/
+/DRChatServer/nbproject/private/
+/DRChatClient/nbproject/private/
+/DRChatClient/build/
+/DRChatServer/build/
